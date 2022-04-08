@@ -2,7 +2,6 @@ import math
 import bisect
 
 class node:
-
     bucket_size = 5
 
     def __init__(self):
